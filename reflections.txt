@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+What new skills have you learned?
+
+I have some experience with HTML so coding part was mostly a brush-up for me, but I did learn a new HTML element, figure. 
+So far the benifit that I have seen is, this has gotten me into a habit of doing things outside work.  
+From coding stand point I think I will start gaining more from the corse once we reach JS and start building projects from scratch using all three(HTML, CSS and JS) 
+
+What has been easy?
+Coding part has been easy so far
+
+What has been difficult?
+
+Getting into a habit of studying after work
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Not just yet
